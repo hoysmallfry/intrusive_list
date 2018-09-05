@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intrusive_list", "intrusive_list.vcxproj", "{845A90D8-3D34-422D-8E8A-2B744E6C2E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845A90D8-3D34-422D-8E8A-2B744E6C2E27}.Debug|Win32.ActiveCfg = Debug|Win32
+		{845A90D8-3D34-422D-8E8A-2B744E6C2E27}.Debug|Win32.Build.0 = Debug|Win32
+		{845A90D8-3D34-422D-8E8A-2B744E6C2E27}.Release|Win32.ActiveCfg = Release|Win32
+		{845A90D8-3D34-422D-8E8A-2B744E6C2E27}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
